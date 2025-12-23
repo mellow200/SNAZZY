@@ -1,1 +1,1 @@
-# SNAZZY
+# snazzy
